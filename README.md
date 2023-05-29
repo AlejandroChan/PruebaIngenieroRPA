@@ -10,7 +10,7 @@ todas las boletas para luego exportarlo en formato .pdf y enviarlo por correo
 ## Para ejecutar la solución
 
 ### El código que es un .py que se ejecuta de la siguiente manera:
-python3 eviar_consolidado.py
+python3 enviar_consolidado.py
 
 ### Como requisitos para ejecutar el código se deben instalar las siguientes librerías:
 * pandas
